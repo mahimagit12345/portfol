@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfol/static/css/main.995d9a72.chunk.css",
+    "main.js": "/portfol/static/js/main.69e4116c.chunk.js",
+    "main.js.map": "/portfol/static/js/main.69e4116c.chunk.js.map",
+    "runtime-main.js": "/portfol/static/js/runtime-main.1581d2b4.js",
+    "runtime-main.js.map": "/portfol/static/js/runtime-main.1581d2b4.js.map",
+    "static/js/2.ef1381ef.chunk.js": "/portfol/static/js/2.ef1381ef.chunk.js",
+    "static/js/2.ef1381ef.chunk.js.map": "/portfol/static/js/2.ef1381ef.chunk.js.map",
+    "index.html": "/portfol/index.html",
+    "static/css/main.995d9a72.chunk.css.map": "/portfol/static/css/main.995d9a72.chunk.css.map",
+    "static/js/2.ef1381ef.chunk.js.LICENSE.txt": "/portfol/static/js/2.ef1381ef.chunk.js.LICENSE.txt",
+    "static/media/Location.6ff11729.png": "/portfol/static/media/Location.6ff11729.png",
+    "static/media/corel.7c78bce3.png": "/portfol/static/media/corel.7c78bce3.png",
+    "static/media/css-3.4a6549b8.png": "/portfol/static/media/css-3.4a6549b8.png",
+    "static/media/html-5.b2db3a7f.png": "/portfol/static/media/html-5.b2db3a7f.png",
+    "static/media/javascript.38323140.png": "/portfol/static/media/javascript.38323140.png",
+    "static/media/mahim.b136dd63.png": "/portfol/static/media/mahim.b136dd63.png",
+    "static/media/phone.6e142172.png": "/portfol/static/media/phone.6e142172.png",
+    "static/media/php.c67d24b4.png": "/portfol/static/media/php.c67d24b4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1581d2b4.js",
+    "static/js/2.ef1381ef.chunk.js",
+    "static/css/main.995d9a72.chunk.css",
+    "static/js/main.69e4116c.chunk.js"
+  ]
+}
